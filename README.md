@@ -74,6 +74,9 @@ assign BO =(~a&c)|(~a&b)|(b&c);
 endmodule
 
 ```
+Developed by: V. POOJAA SREE\
+RegisterNumber: 212223040147
+
 **RTL Schematic:**
 ![alt text](<Screenshot 2024-03-19 143335.png>)
 
