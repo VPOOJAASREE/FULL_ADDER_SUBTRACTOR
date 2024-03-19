@@ -40,7 +40,7 @@ Borrow out = A'Bin + A'B + BBin
 Full - Adder:
 ![alt text](<Screenshot 2024-03-19 142457.png>)
 
-Ful - Subtractor:
+Full - Subtractor:
 ![alt text](<Screenshot 2024-03-19 142537.png>)
 
 **Procedure**
